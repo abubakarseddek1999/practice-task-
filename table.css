@@ -1,0 +1,24 @@
+table{
+    /* border-collapse:collapse; */
+}
+body{
+    background-color: rgb(131, 201, 178);
+}
+nav{
+    text-align: center;
+}
+td, th{
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+}
+table, th, td{
+    border:1px solid black;
+    align-items: center;
+    
+    
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
